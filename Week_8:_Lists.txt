@@ -1,0 +1,11 @@
+QUESTION:
+What symbol is used to represent lists in python?
+
+CHOICES:
+a: [
+b: *
+c: {
+d: None of these
+
+ANSWER:
+a

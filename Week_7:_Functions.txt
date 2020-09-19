@@ -1,0 +1,11 @@
+QUESTION:
+What is a recursive function?
+
+CHOICES:
+a: A function that calls all the functions in the program.
+b: A function that calls itself.
+c: A function that that calls all the functions in the program except itself.
+d: There is no such thing as recursive function in Python.
+
+ANSWER:
+b

@@ -1,0 +1,9 @@
+QUESTION: 
+Consider the following lines of Python:
+>>> x = input()
+>? 12
+>>> x + “abc”
+What is the output?
+
+ANSWER:
+12abc

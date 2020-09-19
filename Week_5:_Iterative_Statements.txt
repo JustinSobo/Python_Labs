@@ -1,0 +1,11 @@
+QUESTION:
+Why is iteration important?
+
+CHOICES:
+a: It determines the order in which instructions are carried out
+b: It allows code to be simplified by removing duplicated steps
+c: It allows multiple paths through a program
+d: It ensures the code works correctly
+
+ANSWER:
+b

@@ -1,0 +1,11 @@
+QUESTION: 
+What is the two’s complement representation of the hexadecimal number -15?
+
+CHOICES:
+a: 10010101
+b: 11101011
+c: 11110010
+d: 00001101
+
+ANSWER:
+b

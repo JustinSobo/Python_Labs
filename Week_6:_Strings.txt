@@ -1,0 +1,12 @@
+QUESTION:
+Suppose s is assigned as follows: s = 'foobar'. How would you pull 'oobar' from the string?
+
+CHOICES:
+a: s[-5:]
+b: s[::-1][-1] + s[len(s)-1]
+c: s[::-1][::-5]
+d: s[0] + s[-1]
+e: s[::5]
+
+ANSWER:
+a

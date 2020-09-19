@@ -1,0 +1,11 @@
+QUESTION: 
+A friend proudly boasts to you that his password is the day of the year that he was born, but converted to binary. You know he was born on the (135th) day of the year. What is his password?
+
+CHOICES:
+a: 1000 0111
+b: 1110 1011
+c: 0111 0001
+d: 0000 1100
+
+ANSWER:
+a

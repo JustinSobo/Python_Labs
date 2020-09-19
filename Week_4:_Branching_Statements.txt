@@ -1,0 +1,11 @@
+QUESTION:
+What signifies the end of a statement block or suite in Python?
+
+CHOICES:
+a: A comment
+b: A line that is indented less than the previous line
+c: end
+d: }
+
+ANSWER:
+b
